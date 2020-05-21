@@ -1,0 +1,27 @@
+a:visited, a:link{
+  color: purple;
+  background-color: gray;
+}
+section li.maggi{
+  font-size: 20px;
+  font-style: italic;
+}
+section li.maggi#atta{
+  color:violet;
+}
+
+.veg{
+  color:green;
+}
+.nonveg{
+  color:red;
+}
+div.maggi{
+  background-image: url('https://www.maggi.in/sites/default/files/2020-04/maggi_bannercooking_0.jpg');
+}
+
+.box{
+  margin:20px;
+  background-color: #DEABAB;
+  border: 1px solid black;
+}
